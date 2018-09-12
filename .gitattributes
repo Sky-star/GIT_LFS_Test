@@ -1,1 +1,2 @@
 NIMAVChat filter=lfs diff=lfs merge=lfs -text
+NVS filter=lfs diff=lfs merge=lfs -text
